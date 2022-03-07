@@ -1,0 +1,1 @@
+Social assets used in Profile README.
