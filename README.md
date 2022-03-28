@@ -15,28 +15,36 @@ Code: <a href="https://github.com/adam-weiler/SongFeels" target="_blank" rel="no
 ### Random Quote Machine:
 Fetches quotes from a JSON file and uses React to display one at random.
 
-Live: <a href="https://57x52okqk.csb.app" target="_blank" rel="noreferrer noopener">https://57x52okqk.csb.app</a>
+Live: <a href="https://aw-random-quote-machine.herokuapp.com/" target="_blank" rel="noreferrer noopener">https://aw-random-quote-machine.herokuapp.com/</a>
+
+Alternate: <a href="https://57x52okqk.csb.app" target="_blank" rel="noreferrer noopener">https://57x52okqk.csb.app</a>
 
 Code: <a href="https://github.com/adam-weiler/Random-Quote-Machine" target="_blank" rel="noreferrer noopener">https://github.com/adam-weiler/Random-Quote-Machine</a>
 
 ### Markdown Previewer:
 Uses React to show what text will look like in markdown.
 
-Live: <a href="https://7yx9lo3ko0.csb.app" target="_blank" rel="noreferrer noopener">https://7yx9lo3ko0.csb.app</a>
+Live: <a href="https://aw-markdown-previewer.herokuapp.com/" target="_blank" rel="noreferrer noopener">https://aw-markdown-previewer.herokuapp.com/</a>
+
+Alternate: <a href="https://7yx9lo3ko0.csb.app" target="_blank" rel="noreferrer noopener">https://7yx9lo3ko0.csb.app</a>
 
 Code: <a href="https://github.com/adam-weiler/Markdown-Previewer" target="_blank" rel="noreferrer noopener">https://github.com/adam-weiler/Markdown-Previewer</a>
 
 ### Pomodoro Clock:
 Uses React to make a working Pomodoro Clock.
 
-Live: <a href="https://x2m33jjwqq.csb.app" target="_blank" rel="noreferrer noopener">https://x2m33jjwqq.csb.app</a>
+Live: <a href="https://aw-pomodoro-clock.herokuapp.com/" target="_blank" rel="noreferrer noopener">https://aw-pomodoro-clock.herokuapp.com/</a>
+
+Alternate: <a href="https://x2m33jjwqq.csb.app" target="_blank" rel="noreferrer noopener">https://x2m33jjwqq.csb.app</a>
 
 Code: <a href="https://github.com/adam-weiler/Pomodoro-Clock" target="_blank" rel="noreferrer noopener">https://github.com/adam-weiler/Pomodoro-Clock</a>
 
 ### Calculator:
 Uses React to display a working calculator.
 
-Live: <a href="https://rwx67vk68q.csb.app" target="_blank" rel="noreferrer noopener">https://rwx67vk68q.csb.app</a>
+Live: <a href="https://aw-react-calculator.herokuapp.com/" target="_blank" rel="noreferrer noopener">https://aw-react-calculator.herokuapp.com/</a>
+
+Alternate: <a href="https://rwx67vk68q.csb.app" target="_blank" rel="noreferrer noopener">https://rwx67vk68q.csb.app</a>
 
 Code: <a href="https://github.com/adam-weiler/React-Calculator" target="_blank" rel="noreferrer noopener">https://github.com/adam-weiler/React-Calculator</a>
 
@@ -101,7 +109,9 @@ Code: <a href="https://github.com/adam-weiler/Visualize-Data-with-a-Heat-Map" ta
 ### Drum Machine:
 Uses React to play sounds on keyboard input.
 
-Live: <a href="https://8rmw3r8rl.csb.app" target="_blank" rel="noreferrer noopener">https://8rmw3r8rl.csb.app</a>
+Live: Alternate: <a href="https://aw-drum-machine.herokuapp.com/" target="_blank" rel="noreferrer noopener">https://aw-drum-machine.herokuapp.com/</a>
+
+Alternate: <a href="https://8rmw3r8rl.csb.app" target="_blank" rel="noreferrer noopener">https://8rmw3r8rl.csb.app</a>
 
 Code: <a href="https://github.com/adam-weiler/Drum-Machine" target="_blank" rel="noreferrer noopener">https://github.com/adam-weiler/Drum-Machine</a>
 
