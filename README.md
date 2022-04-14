@@ -8,6 +8,8 @@ Uses a third-party API to search for song lyrics, Python to evaluate each word's
 
 Live: <a href="https://songfeels.herokuapp.com" target="_blank" rel="noreferrer noopener">https://songfeels.herokuapp.com</a>
 
+Alternate: <a href="https://song-feels.herokuapp.com/" target="_blank" rel="noreferrer noopener">https://song-feels.herokuapp.com/</a>
+
 Code: <a href="https://github.com/adam-weiler/SongFeels" target="_blank" rel="noreferrer noopener">https://github.com/adam-weiler/SongFeels</a>
 
 
